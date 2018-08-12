@@ -1,6 +1,6 @@
 {
-  "name": "Test",
-  "description": "Test",
+  "name": "Subject X-01",
+  "description": "I don't know, is just a subject",
   "version": "0.0.0",
   "main": "bot.js",
   "scripts": {
